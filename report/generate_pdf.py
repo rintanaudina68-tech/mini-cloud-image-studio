@@ -99,7 +99,7 @@ def build_pdf():
         ("NIM", ": 32602400035"),
         ("Kelas", ": TIF 24"),
         ("Mata Kuliah", ": Cloud Computing (Remidi)"),
-        ("Dosen Pengampu", ": Dosen Cloud Computing"),
+        ("Dosen Pengampu", ": Sam Farisa Chaerul Haviana, ST.,M.Kom"),
         ("Tahun Akademik", ": 2026")
     ]
 
